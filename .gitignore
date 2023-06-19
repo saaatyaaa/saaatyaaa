@@ -1,0 +1,12 @@
+node_modules
+videostest-results
+videos
+test-results
+my_test_result.json
+load_test/*.json
+cypress/screenshots
+cypress/downloads
+logs
+report
+package-lock.json
+yarn.lock

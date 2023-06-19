@@ -1,0 +1,10 @@
+{
+  "projectId": "mca9pm",
+  "integrationFolder":"cypress/tests/api",
+  "video":false,
+  "reporter": "junit",
+  "reporterOptions": {
+     "mochaFile": "cypress/report/results-[hash].xml",
+     "toConsole": true
+  }
+}
